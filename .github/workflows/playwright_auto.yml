@@ -1,6 +1,6 @@
 name: Playwright Tests - Auto Trigger
 on:
-  #   push:Test
+  #   push:Test demo
   #     branches: [main, master]
   pull_request:
     branches: [main, master]
